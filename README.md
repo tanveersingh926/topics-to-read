@@ -21,3 +21,8 @@ http://jamesknelson.com/react-js-by-example-interacting-with-the-dom/
 
 
 https://medium.com/a-beginners-guide-for-webpack-2
+
+
+Regarding linting
+
+https://medium.freecodecamp.org/these-tools-will-help-you-write-clean-code-da4b5401f68e
